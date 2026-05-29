@@ -35,7 +35,7 @@ actionable insights to refine pricing and retention strategy.
 - Build a payment failure intervention system with smart retries and dunning emails
 
 ## Dashboard
-[View the Looker Studio Dashboard here]((https://datastudio.google.com/reporting/fedda334-4cca-4700-aa86-afaf4f6077d4))
+View the Looker Studio Dashboard here: https://datastudio.google.com/reporting/fedda334-4cca-4700-aa86-afaf4f6077d4
 
 ## Project Structure
 ├── stripe_analysis.ipynb  # Main analysis notebook
